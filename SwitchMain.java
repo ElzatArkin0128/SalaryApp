@@ -46,5 +46,7 @@ public class SwitchMain {
                     return;
                 }
             System.out.println("Tax: " + tax);
+
+        // This  peace of code is written by Ramile
     }
 }
